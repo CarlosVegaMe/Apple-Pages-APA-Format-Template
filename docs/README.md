@@ -1,7 +1,3 @@
-title: Blogging Like a Hacker
-
-
-
 ## Welcome to GitHub Pages
 [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
 
