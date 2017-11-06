@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Visit resource page: 
+
 [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
 
 You can use the [editor on GitHub](https://github.com/CarlosVegaMe/Apple-Pages-APA-Format-Template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
