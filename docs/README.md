@@ -1,41 +1,32 @@
 ## AN ADVANCED APPLE PAGES TEMPLATE FOR APA FORMAT
 
-
-----------
-
-### Links
-Info Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
-Wiki Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
-
-----------
-### Purpose
-This template is meant to contain helpful APA format styles and basic stylying.  
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Version 2.1 
+```
+----------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Links
 
-### Jekyll Themes
+ - Info-Page: https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/
+ - Wiki-Page: https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlosVegaMe/Apple-Pages-APA-Format-Template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----------
+## Purpose
+This template is meant to contain helpful APA paper formatting, specifically the design and layout of the paper and to contain a helpful wiki page that contains how the styles and design of text is applied. 
 
-### Support or Contact
+Lastly, this template is designed with mathematics in mind. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+----------
+### Requirements
+
+ - Apple Pages
+ - Basic Knowledge on paper formats and styling
+ - MacOs or iCloud Beta Pages.  
+ - 
+
+
+----------
+### Personal Statement
+
+>As a college student, I took a essentials course tailored for MS-Office. While completing prerequisites credits, I found myself pulling my hair, loosing large documents due to the good old feature in MS that freezes and destroys hard work. No amount of updates nor backup features have worked for me. Thus, I've begun editing with good ol' and reliable Pages word processor from Apple. 
+
