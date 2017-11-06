@@ -27,5 +27,4 @@ Lastly, this template is designed with mathematics in mind.
 ----------
 ### Personal Statement
 
->As a college student, I took a essentials course tailored for MS-Office. While completing prerequisites credits, I found myself pulling my hair, loosing large documents due to the good old feature in MS that freezes and destroys hard work. No amount of updates nor backup features have worked for me. Thus, I've begun editing with good ol' and reliable Pages word processor from Apple. 
-
+>As a college student, I took an essentials course tailored for MS-Office. While completing prerequisites credits, I found myself pulling my hair, loosing large documents due to the good old feature in MS that freezes and destroys hard work. No amount of updates nor backup features have worked for me. Thus, I've begun editing with good ol' and reliable Pages word processor from Apple. 
