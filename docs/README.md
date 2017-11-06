@@ -8,7 +8,7 @@ Version 2.1
 ## Links
 
  - Info-Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
- - Wiki-Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
+ - Wiki-Page: [https://github.com/CarlosVegaMe/Apple-Pages-APA-Format-Template/wiki](https://github.com/CarlosVegaMe/Apple-Pages-APA-Format-Template/wiki)
 
 ----------
 ## Purpose
