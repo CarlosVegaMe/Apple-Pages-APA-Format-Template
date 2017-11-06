@@ -1,13 +1,17 @@
 ## AN ADVANCED APPLE PAGES TEMPLATE FOR APA FORMAT
 
-INFO PAGE: 
-[https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
 
-WIKI PAGE: 
+----------
+
+### Links
+Info Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
+Wiki Page: [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
+
+----------
+### Purpose
+This template is meant to contain helpful APA format styles and basic stylying.  
 
 
-### PURPOSE
-PURPOSE OF 
 ```markdown
 Syntax highlighted code block
 
