@@ -7,8 +7,8 @@ Version 2.1
 
 ## Links
 
- - Info-Page: https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/
- - Wiki-Page: https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/
+ - Info-Page: (https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)[https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/]
+ - Wiki-Page: (https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)[https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/]
 
 ----------
 ## Purpose
@@ -22,8 +22,6 @@ Lastly, this template is designed with mathematics in mind.
  - Apple Pages
  - Basic Knowledge on paper formats and styling
  - MacOs or iCloud Beta Pages.  
- - 
-
 
 ----------
 ### Personal Statement
