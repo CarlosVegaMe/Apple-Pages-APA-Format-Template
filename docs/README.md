@@ -1,16 +1,13 @@
-## Welcome to GitHub Pages
-Visit resource page: 
+## AN ADVANCED APPLE PAGES TEMPLATE FOR APA FORMAT
 
+INFO PAGE: 
 [https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/](https://carlosvegame.github.io/Apple-Pages-APA-Format-Template/)
 
-You can use the [editor on GitHub](https://github.com/CarlosVegaMe/Apple-Pages-APA-Format-Template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WIKI PAGE: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### PURPOSE
+PURPOSE OF 
 ```markdown
 Syntax highlighted code block
 
