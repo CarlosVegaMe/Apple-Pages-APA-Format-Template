@@ -22,6 +22,7 @@ Lastly, this template is designed with mathematics in mind.
  - Apple Pages
  - Basic Knowledge on paper formats and styling
  - MacOs or iCloud Beta Pages.  
+ - FreeSerif Font
 
 ----------
 ### Personal Statement
